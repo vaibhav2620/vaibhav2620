@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there  👋
 
-<!--
-**vaibhav2620/vaibhav2620** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1> Vaibhav Mistry </h1>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on improving Skills as Web developer 
+- 🌱 I’m currently learning Front-End library React.js  
+- 👯 I’m looking to collaborate on Web Application development 
+- 🤔 I’m looking for help with CSS😂
+- 💬 Ask me about JAVASCRIPT 
+- 📫 How to reach me: 
+             mail me @: vaibhavmistry2620@gmail.com
+             linkedin:https://www.linkedin.com/in/vaibhav-m-b21769136
+- 😄 Know About me : https://vaibhav2620.github.io/Vaibhav-Mistry/
+- ⚡ Fun fact: Look up my Work on https://codepen.io/vaibhav2620
+
+
