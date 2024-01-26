@@ -2,17 +2,14 @@
 
 <h1> Vaibhav Mistry </h1>
 
-
-- 🔭 I’m currently working on improving Skills as Software Development Engineer & Web developer. 
+- 💻 I'm Working as a Full Stack Developer in Atos (Now Eviden)
+- 🔭 I’m a skilled Software Development Engineer & Web developer. 
 - 📖 I’m currently learning Front-End library React.js.
-- 🌱 I’m constantly Growing my understanding of data structures and algorithm.
-- 👯 I’m looking to collaborate on Web Application development.
-- 🤔 I’m looking for help with efficient CSS😂.
-- 💬 Ask me about JAVASCRIPT.
+- 🌱 I’m constantly Growing my understanding of data structures and algorithms.
 - 📫 How to reach me: 
              mail me @: vaibhavmistry2620@gmail.com
-             linkedin:https://www.linkedin.com/in/vaibhav-m-b21769136
-- 😄 Know About me : https://vaibhav2620.github.io/Vaibhav-Mistry/
+             LinkedIn: https://www.linkedin.com/in/vaibhav-mistry-b2bb762a1?utm_sou
+- 😄 Check out my repositories: https://vaibhav2620.github.io/Vaibhav-Mistry/
 - ⚡ Fun fact: Look up my Work on https://codepen.io/vaibhav2620
 
 
