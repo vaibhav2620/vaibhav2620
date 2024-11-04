@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm Working as a Full Stack Developer in Atos (Now Eviden)<br>🔭 I’m a skilled Software Development Engineer & Web developer.<br>📖 I’m currently learning Googles Firebase cloud services<br>🌱 I’m constantly Growing my understanding of DSA.<br>📫 How to reach me: mail me @: vaibhavmistry2620@gmail.com | LinkedIn: https://www.linkedin.com/in/vaibhav-mistry-b2bb762a1?utm_sou<br>😄 Check out my repositories: https://vaibhav2620.github.io/Vaibhav-Mistry/<br>
+💻 I'm Working as a Full Stack Developer in Accenture (Ex Atos)<br>🔭 I’m a skilled Software Development Engineer & Web developer.<br>📖 I’m currently learning Googles Firebase cloud services, and GCP <br>🌱 I’m constantly Growing my understanding of DSA.<br>📫 How to reach me: mail me @: vaibhavmistry2620@gmail.com | LinkedIn: https://www.linkedin.com/in/vaibhav-mistry-b2bb762a1?utm_sou<br>😄 Check out my repositories: https://vaibhav2620.github.io/Vaibhav-Mistry/<br>
 
 
 ## 🌐 Socials:
